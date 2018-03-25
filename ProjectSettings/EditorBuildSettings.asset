@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main Menu.unity
+    guid: 3282312954de2144eb651ba861eb2039
+  - enabled: 1
+    path: Assets/Medieval Town.unity
+    guid: d7d76bee86305a34ca9a2c46983ea3b6
+  - enabled: 1
+    path: Assets/Egyptian City.unity
+    guid: 26300b2112410a646ad43a44351856b6
+  - enabled: 1
+    path: Assets/Art Gallery.unity
+    guid: 913174312ca67a347bbc9588ff2acbb2
